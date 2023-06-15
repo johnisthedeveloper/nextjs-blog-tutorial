@@ -1,3 +1,9 @@
+---
+title: 'Bing Conversation (1)'
+date: '2021-08-30T13:07:44.675Z'
+description: 'This is a test blog from Markdown'
+thumbnail: '/img/blog/blog-thumbnail.png'
+---
 # Bing Conversation
 
 **Human:**

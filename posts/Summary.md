@@ -1,3 +1,8 @@
+---
+title: "Summary"
+subtitle: "Implementing Pokemon-like combat mechanics in PICO-8."
+date: "2020-12-22"
+---
 # Summary
 
 ## This YouTube course introduces the process of building complex applications using the ChatGPT API. It focuses on best practices and provides a running example of an end-to-end customer service assistant system that involves multiple to a language model with different instructions.

@@ -1,3 +1,8 @@
+---
+title: "trainingvideo"
+subtitle: "Implementing Pokemon-like combat mechanics in PICO-8."
+date: "2020-12-22"
+---
 
 I'd like to talk about non MDM dimensional processing, 
 focusing on Spark based processing and pattern based processing. 
