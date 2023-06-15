@@ -1,5 +1,7 @@
 ---
 title: "2019年是未来十年最好的一年"
+subtitle: "Implementing Pokemon-like combat mechanics in PICO-8."
+date: "2020-12-22"
 datePublished: Sat Jun 03 2023 00:47:35 GMT+0000 (Coordinated Universal Time)
 cuid: clif9yp12000009mf8jg6fji6
 slug: 2019

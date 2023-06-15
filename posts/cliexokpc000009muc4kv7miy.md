@@ -1,5 +1,7 @@
 ---
 title: "试验 Magic Copy"
+subtitle: "Implementing Pokemon-like combat mechanics in PICO-8."
+date: "2020-12-22"
 datePublished: Fri Jun 02 2023 19:03:48 GMT+0000 (Coordinated Universal Time)
 cuid: cliexokpc000009muc4kv7miy
 slug: magic-copy
