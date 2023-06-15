@@ -1,5 +1,5 @@
 ---
-title: "China's 2023 Economy Mind Map"
+title: "Chinas 2023 Economy Mind Map"
 datePublished: Thu Jun 01 2023 14:34:14 GMT+0000 (Coordinated Universal Time)
 cuid: clid8m2f4000409jw79us5vot
 slug: mac
