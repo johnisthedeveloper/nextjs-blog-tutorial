@@ -1,5 +1,7 @@
 ---
 title: "一个很有趣的历史现象"
+subtitle: "Implementing Pokemon-like combat mechanics in PICO-8."
+date: "2020-12-22"
 datePublished: Sat Jun 03 2023 16:54:32 GMT+0000 (Coordinated Universal Time)
 cuid: clig8i6nf00040ak03rme2w7f
 slug: 5lia5liq5b6i5pyj6laj55qe5y6g5yy546w6lgh
