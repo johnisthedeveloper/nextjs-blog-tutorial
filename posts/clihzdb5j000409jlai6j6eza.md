@@ -1,5 +1,7 @@
 ---
 title: "记录3年半环球旅居的最后一天，游牧夫妻回到中国"
+subtitle: "Implementing Pokemon-like combat mechanics in PICO-8."
+date: "2020-12-22"
 datePublished: Sun Jun 04 2023 22:14:20 GMT+0000 (Coordinated Universal Time)
 cuid: clihzdb5j000409jlai6j6eza
 slug: 3
