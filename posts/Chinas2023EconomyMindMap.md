@@ -1,5 +1,7 @@
 ---
 title: "Chinas 2023 Economy Mind Map"
+subtitle: "Implementing Pokemon-like combat mechanics in PICO-8."
+date: "2020-12-22"
 datePublished: Thu Jun 01 2023 14:34:14 GMT+0000 (Coordinated Universal Time)
 cuid: clid8m2f4000409jw79us5vot
 slug: mac
